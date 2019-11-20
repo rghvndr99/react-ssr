@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "wood land shoes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 1100,
+      "category": "fashion",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": true,
+      "rating": 4
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "sun glasses",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 410,
+      "category": "fashion",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": true,
+      "rating": 4
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "belt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 110,
+      "category": "fashion",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": true,
+      "rating": 4
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "fragrence",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 510,
+      "category": "fashion",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": true,
+      "rating": 4
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "apply charger",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 310,
+      "category": "electric",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": false,
+      "rating": 3
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "sony charger",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 310,
+      "category": "electric",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": false,
+      "rating": 3
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "charger",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 310,
+      "category": "electric",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": false,
+      "rating": 3
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "samsung battery",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 320,
+      "category": "electric",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": false,
+      "rating": 2
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "CHECK PRINT SHIRT",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 110,
+      "category": "kitchen",
+      "outofStock": false,
+      "quantity": 30,
+      "offers": true,
+      "rating": 4
+    },
+    {
+      "thumbnail": "https://via.placeholder.com/241x200",
+      "name": "Electric Ketle",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed dictum metus.",
+      "price": 310,
+      "category": "kitchen",
+      "outofStock": false,
+      "quantity": 10,
+      "offers": false,
+      "rating": 3
+    }
+  ]
+}
