@@ -54,7 +54,6 @@
         "style-loader": "^0.21.0"
     },
     "scripts": {
-        "start": "node ./dist/server",
-        "build": "webpack"
+        "build": "webpack && node ./dist/server"
     }
 }
